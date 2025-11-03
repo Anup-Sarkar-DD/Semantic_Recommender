@@ -1,0 +1,9 @@
+pandas
+numpy
+langchain
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+gradio
+sentence-transformers
+chromadb
